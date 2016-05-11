@@ -1,3 +1,2 @@
 # Cryptex
-simple and pretty quest game /
-some new information
+Android quest game
